@@ -1,2 +1,2 @@
 # Checkbook
-program that helps a user keep track of their credit card charges and projected bank account balances
+This program helps a user keep track of their credit card charges and will create a projected bank account balance.
